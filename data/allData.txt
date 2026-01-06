@@ -198,14 +198,3 @@ TYPE: WALL_PANEL
 TEXTURE: TACTILE
 COLOR: PURPLE
 
-=== INSTRUCTIONS FOR USE ===
-
-Copy each section above (between === markers) into separate .txt files.
-
-For example, copy everything between:
-=== student_01.txt ===
-and the next === marker
-
-Into a file named: student_01.txt
-
-Repeat for all 24 files.
