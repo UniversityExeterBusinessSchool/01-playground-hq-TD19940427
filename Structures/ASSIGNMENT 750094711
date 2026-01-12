@@ -1,0 +1,24 @@
+=== student_02.txt ===
+H-H-H-H-H-H-H-H
+HEIGHT: 1
+WIDTH: 8
+TYPE: SINGLE_ROW
+COLOR: BLUE
+
+# My Structure - Student 02
+H-H-H-H-H-H-H-H
+HEIGHT: 1
+WIDTH: 8
+TYPE: SINGLE_ROW
+COLOR: BLUE
+
+## What I See in My Data
+[Describe the codes, letters, numbers]
+The letter is 'H' binding together with dimension of height 1 & Width 8. It is single row structure. The color is blue.
+
+## What I Think This Means
+The pattern is simple linear structure. 
+
+## What This Could Be
+[Your best guess - playground equipment?]
+This could be a single array list of 8 elements. The elements can be anything
